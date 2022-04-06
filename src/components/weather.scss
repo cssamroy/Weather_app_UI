@@ -1,0 +1,21 @@
+.weather {
+  padding: 20px;
+  form {
+    margin-bottom: 20px;
+  }
+  .label {
+    margin-bottom: 10px;
+  }
+  .zipcode {
+    text-align: center;
+    height: 36px;
+    padding: 10px;
+  }
+}
+
+.weather-info-container {
+  display: flex;
+}
+.info-title {
+  margin-bottom: 20px;
+}
